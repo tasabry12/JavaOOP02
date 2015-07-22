@@ -2,6 +2,7 @@
 public class Frazione {
 	private int numeratore=0;
 	private int denominatore=1;
+
 	
 	
 	public Frazione(int _numeratore, int _denominatore) {
